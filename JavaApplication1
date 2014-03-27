@@ -6,5 +6,6 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // Add your name to the end of the System.out
         System.out.println("Nathan, Mitchell, Ryan, James, *YOURNAME*");
+        System.out.println("Hello, I am Connie");
     }
 }
